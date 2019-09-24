@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/githubapi-reactjs-live/static/css/main.806f8953.chunk.css",
+    "main.js": "/githubapi-reactjs-live/static/js/main.430dab58.chunk.js",
+    "main.js.map": "/githubapi-reactjs-live/static/js/main.430dab58.chunk.js.map",
+    "runtime-main.js": "/githubapi-reactjs-live/static/js/runtime-main.55cb4b49.js",
+    "runtime-main.js.map": "/githubapi-reactjs-live/static/js/runtime-main.55cb4b49.js.map",
+    "static/js/2.852e88c8.chunk.js": "/githubapi-reactjs-live/static/js/2.852e88c8.chunk.js",
+    "static/js/2.852e88c8.chunk.js.map": "/githubapi-reactjs-live/static/js/2.852e88c8.chunk.js.map",
+    "index.html": "/githubapi-reactjs-live/index.html",
+    "precache-manifest.91c1fa18ad564322abcb31a064a96d1e.js": "/githubapi-reactjs-live/precache-manifest.91c1fa18ad564322abcb31a064a96d1e.js",
+    "service-worker.js": "/githubapi-reactjs-live/service-worker.js",
+    "static/css/main.806f8953.chunk.css.map": "/githubapi-reactjs-live/static/css/main.806f8953.chunk.css.map"
+  }
+}
